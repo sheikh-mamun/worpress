@@ -1,0 +1,3 @@
+db name: sheikhma_cms
+db user: user
+db password: uiyuy4@jhjh4hyt@HJKD
