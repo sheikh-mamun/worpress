@@ -1,0 +1,27 @@
+/*
+Theme Name: Blog Theme
+Theme URI: https://farhanawdpf@gmail.com
+Author: NCLC
+Author URI: https://farhanawdpf@gmail.com
+Description: One common use case for many themes is adding a setup function, which is generally used to register theme-supported features with WordPress. 
+Version: 1.2
+License: GNU General Public License version 2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: https://farhanawdpf@gmail.com
+Requires PHP:  5.6
+Tested up to: 6.4
+Tags: test-one
+*/
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
